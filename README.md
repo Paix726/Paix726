@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paix726
 - 👀 I’m interested in ...cloud technology
-- 🌱 I’m currently learning ...devops tools and service..
+- 🌱 I’m currently learning ...devops tools and services..
 - 📫 How to reach me ...@poojashivakumar3098@gmail.com
 
 <!---
